@@ -21,7 +21,9 @@
 
 ### Execução
     Executar o arquivo .jar do ANTLRWork - antlrworks-1.5.2-complete(2).jar
-    Abrir o arquivo da gramática - glc.g
+    Abrir o arquivo da gramática - src/glc.g
+
+    Os arquivos da build estão em /build
 
 
 
